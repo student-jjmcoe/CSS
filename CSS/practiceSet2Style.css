@@ -1,0 +1,15 @@
+h1{
+    text-align:center;
+    text-transform:capitalize;
+}
+*{
+    font-family: 'Times New Roman';
+    background-color:rgb(73, 9, 9);
+    color:rgb(231, 171, 171);
+}
+#outer{
+    font-size:25px;
+}
+#inner{
+    font-size:10px;
+}

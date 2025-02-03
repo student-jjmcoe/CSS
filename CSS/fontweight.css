@@ -1,0 +1,27 @@
+#he1{
+    font-weight:normal;
+}
+#he2{
+    font-weight:lighter;
+}
+#he3{
+    font-weight:bold;
+}
+#he4{
+    font-weight:bolder;
+}
+#he21{
+    font-weight:100;
+}
+#he22{
+    font-weight: 250;
+}
+#he23{
+    font-weight:400;
+}
+#he24{
+    font-weight: 800;
+}
+p{
+    font-weight: 900;
+}

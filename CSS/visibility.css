@@ -1,0 +1,19 @@
+#one{
+    width:100px;
+    height:100px;
+    background-color:blueviolet;
+    display:inline-block;
+}
+#two{
+    width:100px;
+    height:100px;
+    background-color:red;
+    display:inline-block;
+    visibility:hidden;
+}
+#three{
+    width:100px;
+    height:100px;
+    background-color:brown;
+    display:inline-block;
+}

@@ -1,0 +1,19 @@
+h1{
+    text-align:center;
+    color:blueviolet;
+}
+P{
+    text-align:right;
+    color:blueviolet;
+}
+h3{
+    text-align:end;
+    color:rgb(91, 25, 153);
+}
+#hello{
+    text-align:start;
+    color:rgb(178, 112, 239);
+}
+body{
+    background-color: rgb(240, 236, 116);
+}

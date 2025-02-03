@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(16, 16, 90);
+}
+h1{
+    color:rgb(229, 84, 84);
+    text-decoration: violet underline;
+}
+h2{
+    color:brown;
+    text-decoration:pink double overline;
+}
+h3{
+    color:rgb(126, 51, 51);
+    text-decoration:line-through;
+}
+a{
+    color:bisque;
+    text-decoration:none;
+}
+h4{
+    color:rgb(211, 105, 105);
+    text-decoration: yellow dashed overline;
+}
+h5{
+    color:rgb(213, 79, 79);
+    text-decoration: rgb(117, 189, 86) wavy underline;
+}
+h6{
+    color:rgb(231, 110, 110);
+    text-decoration:darkmagenta dotted overline;
+}
+p{
+    color:rgb(233, 102, 102);
+    text-decoration: rgb(183, 11, 218) solid underline;
+}

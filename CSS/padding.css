@@ -1,0 +1,22 @@
+div{
+    background-color: slategray;
+    height:100px;
+    width:100px;
+    border:5px solid red;
+    padding-left:15px;
+    padding-top:25px;
+}
+p{
+    background-color: grey;
+    height:50px;
+    width:50px;
+    border:5px double red;
+    padding:50px;
+}
+h1{
+    height:100px;
+    width:400px;
+    background-color:rgb(51, 132, 204);
+    border :6px solid rgb(185, 244, 113);
+    padding:10px 2px 3px 40px;
+}

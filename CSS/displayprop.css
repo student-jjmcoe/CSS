@@ -1,0 +1,15 @@
+p{
+    background-color:pink;
+    display:inline;
+    
+}
+button{
+    display:block;
+    /* background-color: rgb(247, 210, 210); */
+}
+.box{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    display:inline-block;
+}

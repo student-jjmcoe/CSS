@@ -1,0 +1,16 @@
+#one{
+    text-transform:uppercase;
+}
+#two{
+    text-transform:lowercase;
+}
+#three{
+    text-transform:capitalize;
+}
+#four{
+    text-transform:none;
+}
+*{
+    color:rgb(200, 166, 232);
+    background-color: rgb(97, 15, 173);
+}

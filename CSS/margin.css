@@ -1,0 +1,21 @@
+.one{
+    height:100px;
+    width:100px;
+    background-color:chartreuse;
+    border:5px dashed pink;
+    margin-left:20px;
+    margin-bottom:30px;
+    margin-top:50px;
+}
+.two{
+    height:80px;
+    width:90px;
+    background-color: aqua;
+    margin :25px;
+}
+.three{
+    height:25px;
+    width:35px;
+    background-color: blueviolet;
+    margin:10px 20px 30px 40px;
+}
