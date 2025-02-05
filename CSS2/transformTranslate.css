@@ -1,0 +1,66 @@
+#one{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255,0,0,0.5);
+    border:2px solid black;
+    transition: all 2s ease-in;
+}
+#one:hover{
+    transform:translate(200px);
+}
+#two{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255,0,0,0.5);
+    border:2px solid black;
+    transition: all 2s ease-in;
+    position:absolute;
+    left:200px;
+}
+#two:hover{
+    transform:translate(-200px);
+}
+#three{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255,0,0,0.5);
+    border:2px solid black;
+    transition: all 2s ease-in;
+}
+#three:hover{
+    transform:translateY(200px);
+}
+#four{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255,0,0,0.5);
+    border:2px solid black;
+    transition: all 2s ease-in;
+}
+#four:hover{
+    transform:translateY(-100px);
+}
+#five{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255,0,0,0.5);
+    border:2px solid black;
+    transition: all 2s ease-in;
+    position:absolute;
+    top:450px;
+    left:500px;
+}
+#five:hover{
+    transform:translate(100px,100px);
+}
+#six{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0,0,255,0.5);
+    border:2px solid black;
+    transition:all 2s ease-in;
+}
+#six:hover{
+    /* transform:skew(90deg); */
+    transform:skewY(90deg);
+}

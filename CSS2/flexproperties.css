@@ -1,0 +1,40 @@
+body{
+    text-align:center;
+}
+div{
+    height:70px;
+    width:200px;
+    display:inline-block;
+    border:2px solid black;
+}
+#container{
+    height:400px;
+    width:700px;
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    /* align-items:center; */
+    /* align-items:flex-start; */
+    align-items:flex-end;
+    /* align-content:center; */
+    /* align-content:flex-end; */
+}
+#box1{
+    background-color:pink;
+}
+#box2{
+    height: 100px;
+    background-color:rgb(181, 138, 222);
+    align-self:flex-start;
+}
+#box3{
+    height:35px;
+    background-color:rgba(255,0,0,0.5);
+}
+#box4{
+    background-color:rgba(0,255,0,0.5);
+}
+#box5{
+    background-color:rgb(185, 170, 170);
+    align-self:center;
+}

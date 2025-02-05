@@ -1,0 +1,10 @@
+div{
+    height:100px;
+    width:100px;
+    position:fixed;
+    bottom:0;
+    right:0;
+    background-color: aquamarine;
+    background-image:url("LoveNature.jpg");
+    background-size:cover;
+}

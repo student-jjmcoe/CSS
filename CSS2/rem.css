@@ -1,0 +1,23 @@
+#one{
+    height: 100px;
+    width: 100px;
+    font-size: 10px;
+    background-color: crimson;
+}
+#two{
+    height: 50%;
+    width: 5rem;
+    background-color: blue;
+    font-size: 3em;
+}
+#three{
+    width:100px;
+    height:100vh;
+    font-size:2em;
+    background-color: aqua;
+}
+#four{
+    width:50vw;
+    background-color: chocolate;
+    height: 50vh;
+}

@@ -1,0 +1,41 @@
+#one{
+    height:100px;
+    width:100px;
+    background-color:rgb(177, 248, 248);
+    border:2px solid black;
+    transform:scale(0.5);
+}
+#two{
+    height:100px;
+    width:100px;
+    position:absolute;
+    left:200px;
+    background-color:rgb(219, 172, 210);
+    border:2px solid black;
+    /* transform:scalex(2); */
+    /* transform:scalex(0.5); */
+    transform: scalex(3);
+}
+#three{
+    height:100px;
+    width:100px;
+    background-color:rgb(224, 162, 162);
+    border:2px solid black;
+    position:absolute;
+    top:300px;
+    left:200px;
+    /* transform:scaley(2); */
+    /* transform:scaley(0.25); */
+    transform:scaleY(3);
+}
+#four{
+    height:100px;
+    width:100px;
+    background-color:rgb(109, 109, 237);
+    border:2px solid black;
+    position:absolute;
+    top:300px;
+    left:300px;
+    /* transform:scale(1,2); */
+    transform:scale(2,0.5);
+}

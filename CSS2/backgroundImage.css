@@ -1,0 +1,19 @@
+div{
+    height: 100px;
+    width: 100px;
+    display:inline-block;
+}
+#one{
+    background-image:url("natureImage.jpg");
+    background-size:cover;
+}
+#two{
+    background-image:url("natureImage.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    background-color: blueviolet;
+}
+#three{
+    background-image:url("natureImage.jpg");
+    background-size:auto;
+}

@@ -1,0 +1,41 @@
+#navbar{
+    height: 50px;
+    color:white;
+    background-color:black;
+   
+}
+ul{
+    display:flex;
+    justify-content: space-evenly;
+}
+li{
+    list-style-type: none;
+    display:inline;
+}
+a{
+    height: 20px;
+    text-decoration:none;
+    color:white;
+}
+#BBC{
+    color:orange;
+}
+#input{
+    height: 20px;
+}
+button{
+    height:25px;
+}
+#div1{
+    height:500px;
+    width:500px;
+    background-color:cadetblue;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+#div2{
+    height:100px;
+    width:100px;
+    background-color: blueviolet;
+}

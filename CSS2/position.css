@@ -1,0 +1,29 @@
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    background-color: aqua;
+    border: 5px solid black;
+}
+#one{
+    position: static;
+    top:50px;
+    background-color: green;
+}
+#two{
+    position: relative;
+    top:50px;
+    left:20px;
+    background-color: red;
+}
+#three{
+    position: absolute;
+    background-color: pink;
+    top:10px;
+    right:50px;
+}
+#four{
+    position: fixed;
+    bottom:0;
+    width:100%;
+}
